@@ -1,0 +1,16 @@
+[
+{
+  "modid": "RealisticEnergies",
+  "name": "Realistic Energies",
+  "description": "Realistic Energies adds many energy related things like furnaces, crushers, generators, etc.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["axelandre42"],
+  "credits": "Nothing for the moment...",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
